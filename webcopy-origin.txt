@@ -1,0 +1,880 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Montserrat:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.4.5
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\roboto\v32\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://primeiravendaorganica.com/cakto/
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\cakto\index.htm
+Content Type: text/html
+
+Uri: https://primeiravendaorganica.com/comments/feed/
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://primeiravendaorganica.com/feed/
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.6.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.20.3
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://primeiravendaorganica.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_italic_400.woff2
+Content Type: font/woff2
+
+Uri: https://primeiravendaorganica.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_400.woff2
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_400.woff2
+Content Type: font/woff2
+
+Uri: https://primeiravendaorganica.com/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\themes\twentytwentyfour\assets\fonts\cardo\cardo_normal_700.woff2
+Content Type: font/woff2
+
+Uri: https://primeiravendaorganica.com/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\themes\twentytwentyfour\assets\fonts\inter\Inter-VariableFont_slnt,wght.woff2
+Content Type: font/woff2
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/01-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\01-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/02.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\02.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/03.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\03.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/04.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\04.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/05.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\05.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/06.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\06.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/07.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\07.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/08.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\08.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ADQUIRIR-O-PVO-1-300x43.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ADQUIRIR-O-PVO-1-300x43.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ADQUIRIR-O-PVO-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ADQUIRIR-O-PVO-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ALERTA-300x64.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ALERTA-300x64.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ALERTA-768x165.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ALERTA-768x165.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ALERTA.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ALERTA.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ALGORITMO-NA-PRATICA-1.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ALGORITMO-NA-PRATICA-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ALGORITMO-NA-PRATICA.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ALGORITMO-NA-PRATICA.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/AREA-DE-MMRBSO-1-1024x87.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\AREA-DE-MMRBSO-1-1024x87.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/AREA-DE-MMRBSO-1-300x25.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\AREA-DE-MMRBSO-1-300x25.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/AREA-DE-MMRBSO-1-768x65.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\AREA-DE-MMRBSO-1-768x65.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/AREA-DE-MMRBSO-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\AREA-DE-MMRBSO-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-01-242x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-01-242x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-01-768x953.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-01-768x953.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-01-826x1024.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-01-826x1024.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-01.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-01.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-02-242x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-02-242x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-02-768x954.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-02-768x954.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-02-825x1024.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-02-825x1024.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-02.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-02.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-03-242x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-03-242x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-03-768x954.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-03-768x954.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-03-825x1024.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-03-825x1024.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-03.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-03.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-04-241x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-04-241x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-04-768x955.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-04-768x955.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-04-824x1024.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-04-824x1024.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-04.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-04.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-WESLEY-208x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-WESLEY-208x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-WESLEY-711x1024.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-WESLEY-711x1024.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-WESLEY-768x1106.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-WESLEY-768x1106.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BLOCO-WESLEY.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BLOCO-WESLEY.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BOTAO-01-300x39.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BOTAO-01-300x39.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BOTAO-01.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BOTAO-01.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BOTAO-WHATSAPP-300x43.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BOTAO-WHATSAPP-300x43.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/BOTAO-WHATSAPP.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\BOTAO-WHATSAPP.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/COMECE-AQUI.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\COMECE-AQUI.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/COMO-DE-FATO-VENDER-1.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\COMO-DE-FATO-VENDER-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/COMO-DE-FATO-VENDER.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\COMO-DE-FATO-VENDER.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-01.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-01.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-02.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-02.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-03.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-03.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-04.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-04.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-05.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-05.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-06.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-06.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-07.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-07.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-08.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-08.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-09.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-09.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DEPOIMENTO-INSTA-10.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DEPOIMENTO-INSTA-10.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DUVIDAS-FREQUENTES-1-300x35.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DUVIDAS-FREQUENTES-1-300x35.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DUVIDAS-FREQUENTES-1-768x89.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DUVIDAS-FREQUENTES-1-768x89.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/DUVIDAS-FREQUENTES-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\DUVIDAS-FREQUENTES-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ENTRE-EM-CONTATO-300x155.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ENTRE-EM-CONTATO-300x155.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ENTRE-EM-CONTATO.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ENTRE-EM-CONTATO.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ESTRUTURA-DE-PERFIL-1.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ESTRUTURA-DE-PERFIL-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/ESTRUTURA-DE-PERFIL.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\ESTRUTURA-DE-PERFIL.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/FOTOS-1-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\FOTOS-1-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/FOTOS-2-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\FOTOS-2-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/FOTOS-3-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\FOTOS-3-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/FOTOS-4-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\FOTOS-4-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/FUNCIONA-1-1024x61.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\FUNCIONA-1-1024x61.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/FUNCIONA-1-300x18.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\FUNCIONA-1-300x18.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/FUNCIONA-1-768x46.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\FUNCIONA-1-768x46.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/FUNCIONA-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\FUNCIONA-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/GRUPO-WHATSAP-1.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\GRUPO-WHATSAP-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/GRUPO-WHATSAP.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\GRUPO-WHATSAP.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/JJJ-300x74.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\JJJ-300x74.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/JJJ.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\JJJ.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/LISTA-PERFECT-1-219x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\LISTA-PERFECT-1-219x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/LISTA-PERFECT-1-746x1024.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\LISTA-PERFECT-1-746x1024.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/LISTA-PERFECT-1-768x1054.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\LISTA-PERFECT-1-768x1054.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/LISTA-PERFECT-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\LISTA-PERFECT-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/LOGO-PVO-1-150x150.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\LOGO-PVO-1-150x150.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/LOGO-PVO-1-300x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\LOGO-PVO-1-300x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/mockuoaodf-1-1024x810.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\mockuoaodf-1-1024x810.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/mockuoaodf-1-1536x1215.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\mockuoaodf-1-1536x1215.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/mockuoaodf-1-2048x1620.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\mockuoaodf-1-2048x1620.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/mockuoaodf-1-300x237.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\mockuoaodf-1-300x237.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/mockuoaodf-1-768x607.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\mockuoaodf-1-768x607.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/MOCKUP-01-CELULAR-257x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\MOCKUP-01-CELULAR-257x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/MOCKUP-01-CELULAR-768x897.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\MOCKUP-01-CELULAR-768x897.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/MOCKUP-01-CELULAR.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\MOCKUP-01-CELULAR.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/O-QUE-E-ORGANICO-1.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\O-QUE-E-ORGANICO-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/O-QUE-E-ORGANICO.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\O-QUE-E-ORGANICO.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-01-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-01-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-01-300x280.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-01-300x280.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-01-768x716.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-01-768x716.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-01.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-01.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-02-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-02-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-02-300x280.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-02-300x280.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-02-768x716.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-02-768x716.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-02.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-02.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-03-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-03-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-03-300x280.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-03-300x280.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-03-768x716.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-03-768x716.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-03.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-03.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-04-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-04-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-04-300x280.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-04-300x280.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-04-768x716.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-04-768x716.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-04.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-04.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-05-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-05-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-05-300x280.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-05-300x280.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-05-768x716.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-05-768x716.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PASSO-05.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PASSO-05.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PRIMEIRAS-VENDAS-1.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PRIMEIRAS-VENDAS-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PRIMEIRAS-VENDAS.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PRIMEIRAS-VENDAS.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PRINCIPIOS-DE-VENDAS-1.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PRINCIPIOS-DE-VENDAS-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/PRINCIPIOS-DE-VENDAS.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\PRINCIPIOS-DE-VENDAS.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/SAO-ELES-QUE-ESTAO-FALANDO-ISSO-300x66.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\SAO-ELES-QUE-ESTAO-FALANDO-ISSO-300x66.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/SAO-ELES-QUE-ESTAO-FALANDO-ISSO.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\SAO-ELES-QUE-ESTAO-FALANDO-ISSO.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/SELO-DE-GARANTIA-300x233.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\SELO-DE-GARANTIA-300x233.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/SELO-DE-GARANTIA-768x597.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\SELO-DE-GARANTIA-768x597.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/SELO-DE-GARANTIA.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\SELO-DE-GARANTIA.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-01-300x153.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-01-300x153.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-01-768x392.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-01-768x392.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-01.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-01.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-02-300x20.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-02-300x20.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-02.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-02.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-03-300x149.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-03-300x149.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-03.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-03.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-04-300x116.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-04-300x116.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-04.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-04.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-05-300x117.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-05-300x117.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-05.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-05.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-06-300x110.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-06-300x110.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-06.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-06.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-07-300x130.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-07-300x130.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-07.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-07.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-09-291x300.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-09-291x300.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-09-768x791.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-09-768x791.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-09.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-09.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-10-300x80.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-10-300x80.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-10.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-10.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-CORRIGIDO-300x144.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-CORRIGIDO-300x144.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/TEXTO-CORRIGIDO.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\TEXTO-CORRIGIDO.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/VIRALIZA-E-CONVERTE-1.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\VIRALIZA-E-CONVERTE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/04/VIRALIZA-E-CONVERTE.jpg
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\04\VIRALIZA-E-CONVERTE.jpg
+Content Type: image/jpeg
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/06/COMPRA-SEGURA-CAKTO-1-300x28.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\06\COMPRA-SEGURA-CAKTO-1-300x28.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/2024/06/COMPRA-SEGURA-CAKTO-1.png
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\2024\06\COMPRA-SEGURA-CAKTO-1.png
+Content Type: image/png
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/elementor/css/global.css?ver=1712523571
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/elementor/css/post-582.css?ver=1717996459
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\elementor\css\post-582.css
+Content Type: text/css
+
+Uri: https://primeiravendaorganica.com/wp-content/uploads/elementor/css/post-6.css?ver=1712523571
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://primeiravendaorganica.com/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://primeiravendaorganica.com/wp-json/
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://primeiravendaorganica.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimeiravendaorganica.com%2Fcakto%2F
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://primeiravendaorganica.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fprimeiravendaorganica.com%2Fcakto%2F&format=xml
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://primeiravendaorganica.com/wp-json/wp/v2/pages/582
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\wp-json\wp\v2\pages\582
+Content Type: application/json
+
+Uri: https://primeiravendaorganica.com/xmlrpc.php?rsd
+File Name: C:\Users\24494\Downloads\primeiravendaorganica.com\xmlrpc.php
+Content Type: text/xml
+
